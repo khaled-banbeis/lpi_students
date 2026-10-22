@@ -1,7 +1,7 @@
 // =========================
 // API URL (Change this)
 // =========================
-const API_URL = 'https://lpi-students.onrender.com';
+const API_URL = 'https://lpi-students-frontend.onrender.com';
 const STUDENTS_URL = `${API_URL}/students/`;
 
 // =========================
